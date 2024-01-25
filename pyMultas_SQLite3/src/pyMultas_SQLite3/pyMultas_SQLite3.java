@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author martindapol & saaimons
+ * @author martindapol 
  */
 public class pyMultas_SQLite3 {
 
